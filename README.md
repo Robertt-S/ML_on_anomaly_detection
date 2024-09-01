@@ -2,7 +2,7 @@
 
 ## This project focus on getting the best results from a battle of classifiers considering binary and multiclass classification. 
 
-### Models to be used:
+### Used models:
       1. Extreme Gradient Boosting
       2. Random Forest
       3. Adaptive Boosting
@@ -16,7 +16,7 @@
       1. Data Cleaning
       2. Exploratory Data Analysis
       3. Data Preparation
-      5. Model Execution and Results
+      4. Model Execution and Results
 
 
 # References
