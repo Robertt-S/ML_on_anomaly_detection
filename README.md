@@ -3,11 +3,11 @@
 ## This project focus on getting the best results from a battle of classifiers considering binary and multiclass classification. 
 
 ### Models to be used:
-      1. Gradient Boosting
+      1. Extreme Gradient Boosting
       2. Random Forest
       3. Adaptive Boosting
-      4. Stacking
-      5. Bagging
+      4. Bagging
+      5. Multilayer Perceptron
       6. Local Classifier per Parent Node
       7. Local Classifier per Node
       8. Local Classifier per Level
@@ -16,7 +16,6 @@
       1. Data Cleaning
       2. Exploratory Data Analysis
       3. Data Preparation
-      4. Test of Viability
       5. Model Execution and Results
 
 
